@@ -1,0 +1,13 @@
+#calculator * {
+    font-size: 16px;
+}
+
+#calculator table {
+    border: solid 3px silver;
+    border-spacing: 3px;
+    background-color: #EEE;
+}
+
+#calculator table td {
+    border-spacing: 3px;
+}
